@@ -5,254 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d448e69-860c-40db-b053-5cf004e80ede" name="Default Changelist" comment="テンプレート">
-      <change afterPath="$PROJECT_DIR$/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/boostrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/alerts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/badges.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/breadcrumbs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/button-groups.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/close.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/component-animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/dropdowns.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/glyphicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/input-groups.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/jumbotron.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/labels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/list-group.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/media.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/alerts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/alerts.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/background-variant.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/background-variant.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/border-radius.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/border-radius.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/buttons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/buttons.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/center-block.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/center-block.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/clearfix.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/clearfix.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/forms.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/gradients.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/gradients.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/grid-framework.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/grid-framework.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/hide-text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/hide-text.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/image.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/labels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/labels.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/list-group.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/list-group.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/nav-divider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/nav-divider.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/nav-vertical-align.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/nav-vertical-align.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/opacity.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/opacity.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/pagination.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/pagination.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/panels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/panels.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/progress-bar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/progress-bar.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/reset-filter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/reset-filter.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/resize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/resize.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/responsive-visibility.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/responsive-visibility.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/size.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/size.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/tab-focus.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/tab-focus.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/table-row.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/table-row.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/text-emphasis.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/text-emphasis.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/text-overflow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/text-overflow.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/vendor-prefixes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/mixins/vendor-prefixes.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/modals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/navs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/normalize.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/pager.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/pagination.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/panels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/popovers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/print.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/progress-bars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/responsive-embed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/responsive-embed.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/responsive-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/scaffolding.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/tables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/thumbnails.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/tooltip.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/type.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/variables.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap/wells.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/easy-responsive-tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/megafish.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/menu_slideside.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/superfish.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/themify-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/themify/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/themify/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/themify/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/themify/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_large_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_large_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_large_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_large_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_large_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img_large_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slide_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/easyResponsiveTabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/fastclick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/hoverIntent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/inview.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/modernizr-2.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/superfish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/supersubs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/left-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/right-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_bootstrap-compass.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_bootstrap-mincer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/_bootstrap-sprockets.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/breadcrumbs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/button-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/component-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/glyphicons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/input-groups.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/center-block.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/hide-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/nav-vertical-align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/opacity.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/progress-bar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/reset-filter.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/responsive-visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/tab-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/text-overflow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/mixins/vendor-prefixes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/navs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/pager.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/panels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/popovers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/responsive-embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/responsive-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/scaffolding.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/thumbnails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/bootstrap/wells.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactform/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/chart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header-bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/header-bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header-bg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/header-bg3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/post01.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/left-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/right-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleproject.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -262,20 +29,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="-1939">
+              <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
+              <folding>
+                <element signature="e#391#398#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services.html">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="225">
+              <caret line="1944" column="58" selection-start-line="1944" selection-start-column="58" selection-end-line="1944" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/bootstrap/tables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="126" column="3" lean-forward="true" selection-start-line="126" selection-start-column="3" selection-end-line="126" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -283,68 +63,85 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="15">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#391#398#0" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10809#10816#0" expanded="true" />
-                <element signature="e#10963#10970#0" expanded="true" />
-                <element signature="e#10992#10999#0" expanded="true" />
-                <element signature="e#11128#11135#0" expanded="true" />
-                <element signature="e#11352#11359#0" expanded="true" />
-                <element signature="e#11380#11387#0" expanded="true" />
-                <element signature="e#11506#11513#0" expanded="true" />
-                <element signature="e#11717#11724#0" expanded="true" />
-                <element signature="e#11745#11752#0" expanded="true" />
-                <element signature="e#12680#12685#0" expanded="true" />
-                <element signature="e#12781#12786#0" expanded="true" />
-                <element signature="e#13481#13487#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-8275">
+              <caret line="846" column="1" selection-start-line="846" selection-start-column="1" selection-end-line="846" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/left-sidebar.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap/normalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="112" column="12" lean-forward="true" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap/media.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <caret line="17" selection-start-line="15" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apple-touch-icon-precomposed.png">
+        <entry file="file://$PROJECT_DIR$/images/post01.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/images/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/elements.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/favicon.ico">
+        <entry file="file://$PROJECT_DIR$/img/post03.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lock</find>
+      <find>mobile</find>
+      <find>aw</find>
+      <find>Valet</find>
+      <find>職務</find>
+      <find>elemen</find>
+      <find>cus</find>
+      <find>down</find>
+      <find>row</find>
+      <find>css</find>
+      <find>inline</find>
+      <find>valet</find>
+      <find>box</find>
+      <find>table</find>
+      <find>media</find>
+      <find>png</find>
+      <find>col-md-4</find>
+      <find>col-md-2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>col-md-2</replace>
+      <replace>col-md-1</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -353,6 +150,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap/media.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -373,6 +173,52 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="contactform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="themify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -385,11 +231,17 @@
     <property name="GO_FMT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573280804778" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -423,17 +275,24 @@
       <option name="project" value="LOCAL" />
       <updated>1573105352590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="テンプレート">
+      <created>1573192400244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573192400245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2661000" />
+    <option name="totallyTimeSpent" value="13283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -448,7 +307,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="GraphQL" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3192771" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.08795181" />
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -473,22 +332,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="テンプレート" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/services.html">
+    <entry file="file://$PROJECT_DIR$/right-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/js/easyResponsiveTabs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apple-touch-icon-precomposed.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -496,30 +358,52 @@
     <entry file="file://$PROJECT_DIR$/elements.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/megafish.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple-touch-icon-precomposed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/left-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.easing.1.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2464">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/superfish.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="192" column="41" selection-start-line="192" selection-start-column="41" selection-end-line="192" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/services.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#391#398#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10809#10816#0" expanded="true" />
-            <element signature="e#10963#10970#0" expanded="true" />
-            <element signature="e#10992#10999#0" expanded="true" />
-            <element signature="e#11128#11135#0" expanded="true" />
-            <element signature="e#11352#11359#0" expanded="true" />
-            <element signature="e#11380#11387#0" expanded="true" />
-            <element signature="e#11506#11513#0" expanded="true" />
-            <element signature="e#11717#11724#0" expanded="true" />
-            <element signature="e#11745#11752#0" expanded="true" />
-            <element signature="e#12680#12685#0" expanded="true" />
-            <element signature="e#12781#12786#0" expanded="true" />
-            <element signature="e#13481#13487#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -530,10 +414,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/left-sidebar.html">
+    <entry file="file://$PROJECT_DIR$/singleproject.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/spot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/sp-standout-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/services-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/portfolio-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/about-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img_large_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img_large_5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img_large_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img_large_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img_large_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/img_large_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/chart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/slide_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/header-bg3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/header-bg1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/post03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/post01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="112" column="12" lean-forward="true" selection-start-line="112" selection-start-column="12" selection-end-line="112" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/bootstrap/tables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="126" column="3" lean-forward="true" selection-start-line="126" selection-start-column="3" selection-end-line="126" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap/media.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" selection-start-line="15" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8275">
+          <caret line="846" column="1" selection-start-line="846" selection-start-column="1" selection-end-line="846" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1944" column="58" selection-start-line="1944" selection-start-column="58" selection-end-line="1944" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1939">
+          <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
+          <folding>
+            <element signature="e#391#398#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
