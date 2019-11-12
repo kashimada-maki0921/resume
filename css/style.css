@@ -24,6 +24,10 @@ html.fh5co-overflow #fh5co-header-section, html.fh5co-overflow #fh5co-main, html
   transition: all 0.3s ease;
 }
 
+.timeline h3 {
+  font-weight: bold;
+}
+
 body {
   font-family: "Roboto", arial, sans-serif;
   font-size: 18px;
@@ -126,7 +130,7 @@ ul ul, ul ol, ol ul, ol ol {
 }
 
 ul, ol, p {
-  margin: 0 0 20px 0;
+  margin: -8px -1px 61px 2px;
 }
 
 .fh5co-serif {
@@ -1055,7 +1059,7 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
   -ms-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
   -o-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
   box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
-  margin-bottom: 30px;
+  margin-bottom: 90px;
   border-bottom: none;
   bottom: 0;
   -webkit-transition: all 0.3s ease;
@@ -1065,10 +1069,10 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
   transition: all 0.3s ease;
 }
 .fh5co-cards .fh5co-card img {
-  z-index: -1;
+  z-index: -5;
 }
 .fh5co-cards .fh5co-card .fh5co-card-body {
-  padding: 80px;
+  padding: 30px;
 }
 .fh5co-cards .fh5co-card .fh5co-card-body h3 {
   font-size: 20px;
@@ -1079,7 +1083,7 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
   color: #8b969c;
 }
 .fh5co-cards .fh5co-card .fh5co-card-body p:last-child {
-  margin-bottom: 0;
+  margin-bottom: 20px;
 }
 .fh5co-cards .fh5co-card:hover {
   text-decoration: none;
@@ -1092,7 +1096,7 @@ body.fh5co-mobile-menu-visible #fh5co-mobile-menu {
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  color: #57cecd;
+  /*color: #57cecd;*/
 }
 
 .quote {
@@ -1332,7 +1336,7 @@ Components
 
 /* Features*/
 #fh5co-features {
-  padding: 7em 0;
+  padding: 1em 0;
 }
 #fh5co-features .fh5co-feature {
   margin-bottom: 30px;
